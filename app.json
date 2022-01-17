@@ -1,7 +1,7 @@
 {
     "name": "DonLee-Robot-V2",
     "description": "A AutoFilter & Manual Filers Donlee Robot V2",
-    "logo": "https://telegra.ph/file/7213699d811662dd57e36.jpg",
+    "logo": "https://telegra.ph/file/c2f622378bf49fa9455a9.jpg",
     "stack": "container",
     "keywords": [
         "Auto",
@@ -14,16 +14,16 @@
         "Telegram",
         "Bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/PR0FESS0R-99/DonLee-Robot-V2",
-    "success_url": "https://youtube.com/c/MoTech_YT",
+    "website": "https://t.me/mrbhiman12",
+    "repository": "https://github.com/FASTmovie/bhiman12",
+    "success_url": "https://t.me/mrbhiman12",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @MT_MytelegramOrg_Bot",
+            "description": "Your API Hash From my..org or @MT_MytelegramOrg_Bot",
             "value": ""
         },
         "BOT_TOKEN": {
